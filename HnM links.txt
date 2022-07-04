@@ -1,0 +1,37 @@
+Category: Bluzy_D
+https://www2.hm.com/pl_pl/ona/produkty/bluzy.html
+Category: Bluzy_M
+https://www2.hm.com/pl_pl/on/produkty/bluzy-klasyczne-i-z-kapturem.html
+Category: Jeansy_D
+https://www2.hm.com/pl_pl/ona/produkty/dzinsy.html
+Category: Jeansy_M
+https://www2.hm.com/pl_pl/on/produkty/dzinsy.html
+Category: Koszule_D
+https://www2.hm.com/pl_pl/ona/produkty/koszule-i-bluzki.html
+Category: Koszule_M
+https://www2.hm.com/pl_pl/on/produkty/koszule.html
+Category: Koszulki_D
+https://www2.hm.com/pl_pl/ona/produkty/topy.html
+Category: Koszulki_M
+https://www2.hm.com/pl_pl/on/produkty/t-shirty-i-podkoszulki.html
+Category: Kurtki_D
+https://www2.hm.com/pl_pl/ona/produkty/kurtki-i-plaszcze.html
+Category: Kurtki_M
+https://www2.hm.com/pl_pl/on/produkty/kurtki-i-plaszcze.html
+Category: Spodenki_D
+https://www2.hm.com/pl_pl/ona/produkty/szorty.html
+Category: Spodenki_M
+https://www2.hm.com/pl_pl/on/produkty/szorty.html
+Category: Spodnice_D
+https://www2.hm.com/pl_pl/ona/produkty/spodnice.html
+Category: Spodnie_D
+https://www2.hm.com/pl_pl/ona/produkty/spodnie.html
+Category: Spodnie_M
+https://www2.hm.com/pl_pl/on/produkty/spodnie.html
+Category: Sukienki_D
+https://www2.hm.com/pl_pl/ona/produkty/sukienki.html
+https://www2.hm.com/pl_pl/ona/produkty/kombinezony-damskie.html
+Category: Swetry_D
+https://www2.hm.com/pl_pl/ona/produkty/kardigany-i-swetry.html
+Category: Swetry_M
+https://www2.hm.com/pl_pl/on/produkty/kardigany-swetry.html

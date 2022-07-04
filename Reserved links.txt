@@ -1,0 +1,32 @@
+Category: Jeansy_D
+https://www.reserved.com/pl/pl/woman/clothes/jeans/straight
+https://www.reserved.com/pl/pl/woman/clothes/jeans/balloon
+https://www.reserved.com/pl/pl/woman/clothes/jeans/boyfriend
+https://www.reserved.com/pl/pl/woman/clothes/jeans/mom
+https://www.reserved.com/pl/pl/woman/clothes/jeans/slim-mid-rise
+https://www.reserved.com/pl/pl/woman/clothes/jeans/slim-high-rise
+https://www.reserved.com/pl/pl/woman/clothes/jeans
+Category: Spodenki_D
+https://www.reserved.com/pl/pl/woman/clothes/shorts/knitted
+https://www.reserved.com/pl/pl/woman/clothes/shorts
+Category: Spodnice_D
+https://www.reserved.com/pl/pl/woman/clothes/skirts/jeans
+https://www.reserved.com/pl/pl/woman/clothes/skirts/maxi
+https://www.reserved.com/pl/pl/woman/clothes/skirts/midi
+https://www.reserved.com/pl/pl/woman/clothes/skirts/mini
+https://www.reserved.com/pl/pl/woman/clothes/skirts
+Category: Spodnie_M
+https://www.reserved.com/pl/pl/man/clothes/trousers/wide-leg
+https://www.reserved.com/pl/pl/man/clothes/trousers/cargo
+https://www.reserved.com/pl/pl/man/clothes/trousers/sweatpants
+https://www.reserved.com/pl/pl/man/clothes/trousers/joggers
+https://www.reserved.com/pl/pl/man/clothes/trousers/regular
+https://www.reserved.com/pl/pl/man/clothes/trousers/slim
+https://www.reserved.com/pl/pl/man/clothes/trousers
+Category: Jeansy_M
+https://www.reserved.com/pl/pl/man/clothes/jeans/slim
+https://www.reserved.com/pl/pl/man/clothes/jeans/regular
+https://www.reserved.com/pl/pl/man/clothes/jeans/jogger
+https://www.reserved.com/pl/pl/man/clothes/jeans
+Category: Spodenki_M
+https://www.reserved.com/pl/pl/man/clothes/shorts
