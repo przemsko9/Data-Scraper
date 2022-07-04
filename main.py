@@ -3,7 +3,6 @@ import time
 import pandas as pd
 import File_Manager
 import Driver_Manager
-import Diverse
 import Reserved
 import HnM
 import Medicine
@@ -14,7 +13,6 @@ option_chosen = 0
 domain = ''
 urls_df = pd.DataFrame()
 
-print('1. Diverse')
 print('2. H&M')
 print('3. Medicine')
 print('4. Reserved')
@@ -36,13 +34,7 @@ while invalid_check is True:
 date_file = datetime.now().strftime("%d-%m-%Y")
 driver = Driver_Manager.set_driver()
 
-# for option_chosen in range(1, 7):
-
-if option_chosen == 1:
-    domain = 'Diverse'
-    urls = File_Manager.read_urls(domain)
-    urls_df = Diverse.get_urls(driver, urls)
-elif option_chosen == 2:
+if option_chosen == 2:
     domain = 'HnM'
     urls = File_Manager.read_urls(domain)
     urls_df = HnM.get_urls(driver, urls)
